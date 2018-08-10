@@ -1,5 +1,7 @@
 # emoji-translator
 
+Translate your favourite phrases into fun emojis. Testing application for vue.
+
 ## Project setup
 ```
 npm install
