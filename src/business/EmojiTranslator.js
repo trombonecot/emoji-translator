@@ -9,6 +9,8 @@ export default {
 
       let emojis = emojiProvider.getEmojis();
 
+      // TODO: plurals, puntuaction and composite words
+
       for (let index in words) {
         let word = words[index];
         if (!!emojis[word]) {
